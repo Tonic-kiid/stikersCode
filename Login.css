@@ -1,0 +1,23 @@
+.header{
+    background-color: grey;
+}
+
+.link-container{
+    padding: 20px;
+    text-align: center;
+   
+}
+Link{
+    text-decoration: none;
+    color: white;
+   
+}
+
+.submit-container{
+
+}
+
+p{
+    text-align: center;
+    color: white;
+}

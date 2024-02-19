@@ -1,0 +1,24 @@
+.header-container{
+  background-color: lightgreen;
+  height: 7vh;
+  width: 100%;
+}
+
+.links{
+margin: auto;
+align-items: center;
+padding: 30px;
+display: inline;
+text-decoration: none;
+align-content: space-between;
+color: blueviolet;
+}
+
+.links:hover{
+  color:black;
+}
+
+.links:visited{
+  color:red;
+}
+
